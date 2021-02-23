@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: k-a-izuagbe.codes
+Token: 3f64e8be75f34f21b14b8fc0883c7d06bc38d5ded492bc1c6e394b92d81268ba
